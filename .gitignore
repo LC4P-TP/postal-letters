@@ -1,0 +1,10 @@
+.vscode
+node_modules
+build
+bower_components
+package-lock.json
+.env*
+
+#Built Visual Studio Code Extensions
+*.vsix
+dist
